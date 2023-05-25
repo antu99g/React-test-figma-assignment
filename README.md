@@ -1,8 +1,10 @@
 # React Test
 
+
 ## Tech Stack
 
 `React.js` `Material UI` `CSS`
+
 
 ## Run Locally
 
@@ -27,6 +29,7 @@ To run this project locally follow these steps :
 ```bash
   npm run dev
 ```
+
 
 ## Hosted Link
 
