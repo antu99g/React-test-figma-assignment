@@ -1,10 +1,8 @@
 # React Test
 
-
 ## Tech Stack
 
 `React.js` `Material UI` `CSS`
-
 
 ## Run Locally
 
@@ -30,7 +28,6 @@ To run this project locally follow these steps :
   npm run dev
 ```
 
-
 ## Hosted Link
 
-Visit site: [React Test](https://foodie-7cb378.netlify.app)
+Visit site: [React Test](https://react-test-2dc293.netlify.app)
