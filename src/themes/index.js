@@ -4,9 +4,11 @@ const theme = createTheme({
   components: {
     MuiButton: {
       styleOverrides: {
+        root: {
+          textTransform: "none",
+        },
         text: {
           fontSize: ".75rem",
-          textTransform: "none",
         },
       },
     },

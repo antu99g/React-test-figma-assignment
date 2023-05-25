@@ -16,8 +16,6 @@ import theme from "../themes";
 // Common button styles (in footer)
 const buttonStyle = {
   fontSize: ".8rem",
-  fontWeight: "700",
-  textTransform: "none",
   padding: "1.2vh 3vw",
 };
 
